@@ -1,9 +1,10 @@
 # index
 
-I live.
-I can think 
-to influence my life.
+For living,  
+eat well.
 
-Living depends on eating.
-I can think about eating
-to influence my life.
+For sleeping,  
+breathe well.
+
+For thinking,  
+get good lighting.
