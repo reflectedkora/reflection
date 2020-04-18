@@ -1,7 +1,7 @@
 # index
 
 For living,  
-eat well.
+[eat] well.
 
 For sleeping,  
 breathe well.
